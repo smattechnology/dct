@@ -162,7 +162,7 @@ export default function Home() {
           </div>
 
           {/* Team Profiles */}
-          <div className="pt-20 space-y-10">
+          {/* <div className="pt-20 space-y-10">
             <h3 className="text-2xl sm:text-4xl font-semibold tracking-tight text-foreground">
               Meet Our Team
             </h3>
@@ -246,7 +246,7 @@ export default function Home() {
                 </motion.div>
               ))}
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
       {/* Services Section */}
